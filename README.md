@@ -59,12 +59,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajDambhare&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajDambhare&theme=tokyonight&hide_border=true" height="165" />
-</p>
+  <a href="https://github.com/surajDambhare">
+    <img src="https://github-readme-stats.vercel.app/api?username=surajDambhare&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  </a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajDambhare&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <a href="https://github.com/surajDambhare">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajDambhare&theme=tokyonight&hide_border=true" height="165"/>
+  </a>
 </p>
 
 ### 📫 Connect With Me
