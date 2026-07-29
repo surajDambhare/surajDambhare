@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://raw.githubusercontent.com/surajDambhare/surajDambhare/main/suraj-github-banner.svg)
+![banner](https://raw.githubusercontent.com/surajDambhare/surajDambhare/main/suraj-github-banner.png)
 
 </div>
 
