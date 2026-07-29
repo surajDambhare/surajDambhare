@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/suraj-dambhare-420552206"><img src="https://img.shields.io/badge/LinkedIn-Suraj%20Dambhare-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:surajdambhare28@gmail.com"><img src="https://img.shields.io/badge/Email-surajdambhare28%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:suraj.dambharee@gmail.com"><img src="https://img.shields.io/badge/Email-surajdambhare28%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
@@ -71,5 +71,5 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/suraj-dambhare-420552206"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:surajdambhare28@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:suraj.dambharee@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
