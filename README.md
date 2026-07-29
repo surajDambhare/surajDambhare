@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Suraj Dambhare</h1>
+<h3 align="center">Java Backend Developer | Spring Boot | Microservices</h3>
 
-<!--
-**surajDambhare/surajDambhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💼 4+ Years of Experience <br>
+  📍 Pune, India <br>
+  🚀 Passionate about Backend Development & System Design
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💻 Java Backend Developer
+- 🌱 Currently learning Kubernetes & AWS
+- 🔥 Experienced in Spring Boot & Microservices
+- 🎯 Preparing for Product-Based Companies
+
+---
+
+## 🚀 Tech Stack
+
+- Java
+- Spring Boot
+- Microservices
+- Hibernate
+- MySQL
+- Docker
+- Kafka
+- Redis
+- AWS
+- Git
+- Maven
+- Jenkins
+
+---
+
+## 📌 Featured Projects
+
+- 🛒 E-Commerce Microservices
+- 📚 Issue Tracker System
+- 🤖 Intelligent Code Review Assistant
+- 💬 Chat Application
+- 👨‍💼 Employee Management System
+
+---
+
+## 📊 GitHub Stats
+
+(Add GitHub Stats cards here)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/your-profile
+- Email: your-email@example.com
