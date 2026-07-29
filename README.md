@@ -56,16 +56,15 @@
 | 🧵 **[Java-Multithreading](https://github.com/surajDambhare/Java-Multithreading)** | Thread creation, synchronization, thread pools & concurrency utilities |
 | 🧠 **[java-oops-concepts](https://github.com/surajDambhare/java-oops-concepts)** | Core OOP concepts in Java with practical examples |
 
-### 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=surajDambhare&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170" src="https://streak-stats.demolab.com?user=surajDambhare&theme=tokyonight&hide_border=true"/>
+  <img height="170"
+       src="https://streak-stats.demolab.com?user=surajDambhare&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajDambhare&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajDambhare&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ### 📫 Connect With Me
