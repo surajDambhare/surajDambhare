@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/surajDambhare/surajDambhare/main/suraj-github-banner.svg" alt="Suraj Dambhare Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/surajDambhare/surajDambhare/main/suraj-github-banner2.svg" alt="Suraj Dambhare Banner" width="100%" />
 
 <br/>
 <br/>
