@@ -1,75 +1,153 @@
 <div align="center">
 
-![banner](https://raw.githubusercontent.com/surajDambhare/surajDambhare/main/suraj-github-banner.svg)
+<img src="https://raw.githubusercontent.com/surajDambhare/surajDambhare/main/suraj-github-banner.svg" alt="Suraj Dambhare Banner" width="100%" />
+
+<br/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Senior+Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+AWS;Building+an+E-Commerce+Platform;Learning+System+Design+%26+DSA;Open+to+Product-Based+Opportunities" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://linkedin.com/in/suraj-dambhare-420552206"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:surajdambhare28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=surajDambhare&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
-<h3 align="center">Java Backend Developer · Spring Boot · Microservices</h3>
+<br/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/suraj-dambhare-420552206"><img src="https://img.shields.io/badge/LinkedIn-Suraj%20Dambhare-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:suraj.dambharee@gmail.com"><img src="https://img.shields.io/badge/Email-surajdambhare28%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-</p>
+## 👨‍💻 About Me
 
----
+```java
+public class Suraj implements BackendDeveloper {
 
-### 👨‍💻 About Me
+    private String role      = "Senior Java Backend Developer";
+    private String company   = "Wipro Technologies";
+    private String project   = "HSBC Digital Experience Platform (DXP Migration)";
+    private String location  = "Pune, Maharashtra, India";
+    private String[] focus   = { "Kubernetes", "System Design", "DSA" };
+    private boolean openToWork = true;
 
-- 🔭 Building **HSBC's Digital Experience Platform** — migrating a legacy system to Spring Boot microservices
-- 💼 4+ years as a backend engineer, currently at **Wipro Technologies**
-- 🌱 Currently deepening my Kubernetes & AWS skills
-- 🎯 Preparing for product-based company interviews
-- 📍 Based in Pune, India
+    @Override
+    public String currentMission() {
+        return "Migrating legacy Java Servlets into distributed Spring Boot microservices";
+    }
+}
+```
 
-### 🚀 Tech Stack
+<br/>
 
-**Languages & Frameworks**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+## 🧰 Tech Stack
 
-**Data**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<div align="center">
 
-**DevOps & Cloud**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,redis,aws,docker,jenkins,kafka,maven,git,linux,kubernetes&theme=dark&perline=14" alt="Tech Stack Icons" width="100%" />
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+</div>
 
-### 📌 Featured Projects
+<div align="center">
 
-| Project | Description |
-|---|---|
-| 🛒 **[E-Commerce Microservices](https://github.com/surajDambhare)** | Microservices-based e-commerce backend |
-| 🧾 **[exam-portal-microservice-backend](https://github.com/surajDambhare/exam-portal-microservice-backend)** | Spring Boot microservices for an exam portal — Eureka registration, API Gateway routing, Quizzes/Questions/Results/Reports |
-| 👨‍💼 **[employee-management](https://github.com/surajDambhare/employee-management)** | Spring Boot Employee Management System with REST APIs, Spring Data JPA, layered exception handling |
-| 🐳 **[Docker-Learning](https://github.com/surajDambhare/Docker-Learning)** | Running & managing a Spring Boot app inside a Docker container |
-| ☁️ **[AWS-Cloud-Practitioner-Learning](https://github.com/surajDambhare/AWS-Cloud-Practitioner-Learning)** | Structured AWS fundamentals, certification-ready |
-| 🧵 **[Java-Multithreading](https://github.com/surajDambhare/Java-Multithreading)** | Thread creation, synchronization, thread pools & concurrency utilities |
-| 🧠 **[java-oops-concepts](https://github.com/surajDambhare/java-oops-concepts)** | Core OOP concepts in Java with practical examples |
+<img src="https://img.shields.io/badge/Spring_MVC-161B22?style=flat-square&color=161B22" />
+<img src="https://img.shields.io/badge/Spring_Security-161B22?style=flat-square&color=161B22" />
+<img src="https://img.shields.io/badge/Microservices-161B22?style=flat-square&color=161B22" />
+<img src="https://img.shields.io/badge/REST_APIs-161B22?style=flat-square&color=161B22" />
+<img src="https://img.shields.io/badge/SQL-161B22?style=flat-square&color=161B22" />
+<img src="https://img.shields.io/badge/System_Design-161B22?style=flat-square&color=161B22" />
+<img src="https://img.shields.io/badge/DSA-161B22?style=flat-square&color=161B22" />
 
-## 📊 GitHub Activity
+</div>
 
-<p align="center">
-  <img height="170"
-       src="https://streak-stats.demolab.com?user=surajDambhare&theme=tokyonight&hide_border=true"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajDambhare&theme=tokyo-night&hide_border=true"/>
-</p>
+## 📌 Featured Projects
 
-### 📫 Connect With Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://linkedin.com/in/suraj-dambhare-420552206"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:suraj.dambharee@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+### 🛒 [E-Commerce Microservices](https://github.com/surajDambhare)
+Spring Boot microservices backend with API Gateway routing and Eureka service discovery.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 [Exam Portal Microservices](https://github.com/surajDambhare/exam-portal-microservice-backend)
+Quiz, Question, Report & Result services with Eureka registration and gateway routing.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💼 [Employee Management System](https://github.com/surajDambhare/employee-management)
+Spring Boot CRUD app with REST APIs, Spring Data JPA, and layered exception handling.
+
+</td>
+<td width="50%" valign="top">
+
+### 🐳 [Docker Learning](https://github.com/surajDambhare/Docker-Learning)
+Containerizing and running Spring Boot applications with Docker.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ [AWS Cloud Practitioner Learning](https://github.com/surajDambhare/AWS-Cloud-Practitioner-Learning)
+Structured, certification-ready AWS fundamentals.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧵 [Java Multithreading](https://github.com/surajDambhare/Java-Multithreading)
+Thread pools, executors, synchronization & concurrency utilities.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [Java OOP Concepts](https://github.com/surajDambhare/java-oops-concepts)
+Core OOP principles with practical, runnable examples.
+
+</td>
+<td width="50%" valign="top">
+
+&nbsp;
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajDambhare&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="97%" />
+
+</div>
+
+<br/>
+
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/suraj-dambhare-420552206"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:surajdambhare28@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+⭐ Thanks for visiting — always open to a conversation about backend engineering, system design, or opportunities.
+
+</div>
