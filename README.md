@@ -144,8 +144,6 @@ Core OOP principles with practical, runnable examples.
 
 </div>
 
-<br/>
-
 <div align="center">
 
 ⭐ Thanks for visiting — always open to a conversation about backend engineering, system design, or opportunities.
